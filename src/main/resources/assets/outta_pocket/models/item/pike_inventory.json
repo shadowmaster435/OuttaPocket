@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "outta_pocket:item/pike_inventory"
+  }
+}

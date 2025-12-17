@@ -1,0 +1,91 @@
+{
+  "prospected_copper": {
+    "sounds": [
+      "minecraft:block/copper/break1",
+      "minecraft:block/copper/break2",
+      "minecraft:block/copper/break3",
+      "minecraft:block/copper/break4"
+    ],
+    "subtitle": "item.outta_pocket.prospecting_pick.copper"
+  },
+  "prospected_gold": {
+    "sounds": [
+      "minecraft:block/chain/step1",
+      "minecraft:block/chain/step2",
+      "minecraft:block/chain/step3",
+      "minecraft:block/chain/step4",
+      "minecraft:block/chain/step5",
+      "minecraft:block/chain/step6"
+    ],
+    "subtitle": "item.outta_pocket.prospecting_pick.gold"
+  },
+  "prospected_redstone": {
+    "sounds": [
+      {
+        "name": "minecraft:block/sweet_berry_bush/break1",
+        "volume": 0.2,
+        "pitch": 2.0
+      },
+      {
+        "name": "minecraft:block/sweet_berry_bush/break3",
+        "volume": 0.2,
+        "pitch": 2.0
+      }
+    ],
+    "subtitle": "item.outta_pocket.prospecting_pick.redstone"
+  },
+  "prospected_diamond": {
+    "sounds": [
+      "outta_pocket:prospecting/prospect_diamond"
+    ],
+    "subtitle": "item.outta_pocket.prospecting_pick.diamond"
+  },
+  "prospected_lapis": {
+    "sounds": [
+      {
+        "name": "outta_pocket:prospecting/prospect_lapis",
+        "volume": 0.25
+      }
+    ],
+    "subtitle": "item.outta_pocket.prospecting_pick.lapis"
+  },
+  "prospected_ancient_debris": {
+    "sounds": [
+      {
+        "name": "outta_pocket:prospecting/prospect_ancient_debris",
+        "volume": 1.5
+      }
+
+    ],
+    "subtitle": "item.outta_pocket.prospecting_pick.ancient_debris"
+  },
+  "prospected_quartz": {
+    "sounds": [
+      "minecraft:block/bone_block/break1",
+      "minecraft:block/bone_block/break2",
+      "minecraft:block/bone_block/break3",
+      "minecraft:block/bone_block/break4",
+      "minecraft:block/bone_block/break5"
+    ],
+    "subtitle": "item.outta_pocket.prospecting_pick.quartz"
+  },
+  "prospected_emerald": {
+    "sounds": [
+      "outta_pocket:prospecting/prospect_emerald"
+    ],
+    "subtitle": "item.outta_pocket.prospecting_pick.emerald"
+  },
+  "prospected_coal": {
+    "sounds": [
+      "outta_pocket:prospecting/prospect_coal"
+    ],
+    "subtitle": "item.outta_pocket.prospecting_pick.coal"
+  },
+  "prospected_iron": {
+    "sounds": [
+      "outta_pocket:prospecting/prospect_iron"
+
+    ],
+    "subtitle": "item.outta_pocket.prospecting_pick.iron"
+  }
+}

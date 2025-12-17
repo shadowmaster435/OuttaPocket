@@ -1,0 +1,10 @@
+{
+	"textures": {
+      "0": "outta_pocket:block/gear_item",
+      "1": "outta_pocket:block/gear_cw",
+      "2": "outta_pocket:block/gear_ccw"
+	},
+	"elements": [
+
+	]
+}

@@ -1,0 +1,26 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "cases": [
+      {
+        "when": "projectile",
+        "model": {
+          "type": "minecraft:model",
+          "model": "outta_pocket:item/flail_projectile"
+        }
+      },
+      {
+        "when": "thrown",
+        "model": {
+          "type": "minecraft:model",
+          "model": "outta_pocket:item/flail_thrown"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "outta_pocket:item/flail"
+    }
+  }
+}

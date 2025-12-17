@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_all",
+
+  "textures": {
+    "all": "outta_pocket:block/nether_reactor_core_active"
+  }
+}

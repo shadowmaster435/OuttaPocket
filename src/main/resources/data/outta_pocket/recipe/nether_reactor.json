@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "bab",
+    "bab",
+    "bab"
+  ],
+  "key": {
+    "a": [
+      "minecraft:diamond"
+    ],
+    "b": [
+      "minecraft:iron_ingot"
+    ]
+  },
+  "result": {
+    "id": "outta_pocket:relay",
+    "count": 16
+  }
+}

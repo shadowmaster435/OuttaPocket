@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "outtapocket",
+  "version": "${version}",
+  "name": "OuttaPocket",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "AGPL-3.0",
+  "icon": "assets/outtapocket/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "org.shadowmaster435.outtapocket.client.OuttapocketClient"
+    ],
+    "main": [
+      "org.shadowmaster435.outtapocket.Outtapocket"
+    ]
+  },
+  "mixins": [
+    "outtapocket.mixins.json",
+    {
+      "config": "outtapocket.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-language-kotlin": ">=${kotlin_loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

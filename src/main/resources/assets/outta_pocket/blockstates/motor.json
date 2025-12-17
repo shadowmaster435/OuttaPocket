@@ -1,0 +1,56 @@
+{
+  "variants": {
+    "facing=down,powered=false": {
+      "model": "outta_pocket:block/motor_off",
+      "x": 180
+    },
+    "facing=down,powered=true": {
+      "model": "outta_pocket:block/motor_on",
+      "x": 180
+    },
+    "facing=east,powered=false": {
+      "model": "outta_pocket:block/motor_off",
+      "y": 90,
+	  "x": 90
+    },
+    "facing=east,powered=true": {
+      "model": "outta_pocket:block/motor_on",
+      "y": 90,
+	  "x": 90
+    },
+    "facing=north,powered=false": {
+      "model": "outta_pocket:block/motor_off",
+	  "x": 90
+    },
+    "facing=north,powered=true": {
+      "model": "outta_pocket:block/motor_on",
+	  "x": 90
+    },
+    "facing=south,powered=false": {
+      "model": "outta_pocket:block/motor_off",
+	  "x": 90,
+      "y": 180
+    },
+    "facing=south,powered=true": {
+      "model": "outta_pocket:block/motor_on",
+	  "x": 90,
+      "y": 180
+    },
+    "facing=up,powered=false": {
+      "model": "outta_pocket:block/motor_off"
+    },
+    "facing=up,powered=true": {
+      "model": "outta_pocket:block/motor_on"
+    },
+    "facing=west,powered=false": {
+      "model": "outta_pocket:block/motor_off",
+      "y": 270,
+	  "x": 90
+    },
+    "facing=west,powered=true": {
+      "model": "outta_pocket:block/motor_on",
+      "y": 270,
+	  "x": 90
+    }
+  }
+}

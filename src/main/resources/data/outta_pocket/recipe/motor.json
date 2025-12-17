@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    "aba",
+    "ada",
+    "aca"
+  ],
+  "key": {
+    "a": [
+      "cobblestone"
+    ],
+    "b": [
+      "minecraft:copper_ingot"
+    ],
+    "c": [
+      "minecraft:iron_ingot"
+    ],
+    "d": [
+      "minecraft:redstone"
+    ]
+  },
+  "result": {
+    "id": "outta_pocket:motor",
+    "count": 1
+  }
+}

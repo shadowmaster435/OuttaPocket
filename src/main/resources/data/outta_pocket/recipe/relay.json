@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    "aca",
+    "ada",
+    "aba"
+  ],
+  "key": {
+    "a": [
+      "cobblestone"
+    ],
+    "b": [
+      "minecraft:copper_ingot"
+    ],
+    "c": [
+      "minecraft:iron_ingot"
+    ],
+    "d": [
+      "outta_pocket:gear"
+    ]
+  },
+  "result": {
+    "id": "outta_pocket:relay",
+    "count": 2
+  }
+}

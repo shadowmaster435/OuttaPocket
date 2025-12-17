@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "state=dormant": {
+      "model": "outta_pocket:block/nether_reactor_core_dormant"
+    },
+	"state=active": {
+      "model": "outta_pocket:block/nether_reactor_core_active"
+    },
+	"state=used": {
+      "model": "outta_pocket:block/nether_reactor_core_used"
+    }
+  }
+}

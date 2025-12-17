@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "minecraft:block/furnace_top",
+    "east": "outta_pocket:block/stonecutter_side",
+    "north": "minecraft:block/furnace_side",
+    "particle": "outta_pocket:block/stonecutter_side",
+    "south": "outta_pocket:block/stonecutter_side",
+    "up": "outta_pocket:block/stonecutter_top",
+    "west": "minecraft:block/furnace_side"
+  }
+}

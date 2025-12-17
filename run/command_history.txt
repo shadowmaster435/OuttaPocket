@@ -1,0 +1,50 @@
+/
+/summon minecraft:pig
+/gamemode creative
+/summon pig ~ ~ ~ {NoAI:1b}
+/summon pig ~ ~ ~ {NoAI:1b}s
+/summon pig ~ ~ ~ {NoAI:1b}
+/
+/summon pig ~ ~ ~ {NoAI:1b}
+/enchant @a minecraft:unbreaking 3
+/give @a outta_pocket:pike
+/enchant @a minecraft:unbreaking 3
+/enchant @a minecraft:sharpness 6
+/enchant @a minecraft:sharpness 5
+/summon pig ~ ~ ~ {NoAI:1b}
+/give @a outta_pocket:flail
+/summon pig ~ ~ ~ {NoAI:1b}
+/gamemode survival
+/summon pig ~ ~ ~ {NoAI:1b}
+/enchant @a minecraft:looting 4
+/enchant @a minecraft:looting 3
+/summon pig
+/enchant @a minecraft:looting 3
+/gamemode creative
+/summon pig
+/summon pig ~ ~ ~ {NoAI:1b}
+/enchant @a minecraft:sharpness 5
+/summon pig ~ ~ ~ {NoAI:1b}
+/gamemode survival
+/gamemode creative
+/execute in minecraft:the_nether run tp ~ ~ ~
+/gamemode spectator
+/gamemode survival
+/gamemode creative
+/gamemode spectator
+/gamemode creative
+/effect give @a minecraft:nausea infinite 100 true
+/effect give @a minecraft:night_vision infinite 100 true
+/effect clear
+/effect give @a minecraft:night_vision infinite 100 true
+/gamemode survival
+/give @a minecraft:milk_bucket
+/give @a outta_pocket:ice_axe
+/gamemode creative
+/gamemode c
+/gamemode survival
+/give @a minecraft:stone_pickaxe
+/gamemode creative
+/kill
+/give @a outta_pocket:ice_axe
+/recipe give @a *

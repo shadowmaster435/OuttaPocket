@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "outta_pocket:nether_reactor_core",
+    "outta_pocket:glowing_obsidian",
+    "outta_pocket:alternator",
+    "outta_pocket:relay",
+    "outta_pocket:motor",
+    "outta_pocket:stonecutter",
+    "outta_pocket:bugged_stone_button",
+    "outta_pocket:bugged_polished_blackstone_button",
+    "outta_pocket:bugged_six_sided_piston",
+    "outta_pocket:six_sided_piston",
+    "outta_pocket:six_sided_sticky_piston"
+
+  ]
+}

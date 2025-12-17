@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    [
+      "outta_pocket:alternator"
+    ]
+  ],
+  "result": {
+    "id": "outta_pocket:motor",
+    "count": 1
+  }
+}

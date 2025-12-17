@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    [
+      "outta_pocket:cyan_rose"
+    ]
+  ],
+  "result": {
+    "id": "minecraft:cyan_dye",
+    "count": 1
+  }
+}

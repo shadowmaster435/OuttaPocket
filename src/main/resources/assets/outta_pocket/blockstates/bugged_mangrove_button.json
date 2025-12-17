@@ -1,0 +1,9 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "minecraft:block/mangrove_planks"
+      }
+    }
+  ]
+}
