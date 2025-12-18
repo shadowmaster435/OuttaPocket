@@ -3,3 +3,7 @@
 /build/
 /build/classes/java/main/
 /build/classes/kotlin/client/
+/run/
+/gradle/
+/.kotlin/
+/.idea/

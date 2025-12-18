@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "id": "outtapocket",
+  "id": "outta_pocket",
   "version": "${version}",
   "name": "OuttaPocket",
-  "description": "",
-  "authors": [],
+  "description": "Adds and modernizes the scrapped, unused, and simply mentioned.",
+  "authors": ["shadowmaster435"],
   "contact": {},
   "license": "AGPL-3.0",
-  "icon": "assets/outtapocket/icon.png",
+  "icon": "assets/outta_pocket/icon.png",
   "environment": "*",
   "entrypoints": {
     "client": [

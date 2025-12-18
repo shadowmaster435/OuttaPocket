@@ -88,7 +88,7 @@ class BuggedButtonBlock(settings: Settings, val type: Int, original: Block) : Bu
         return if (shouldPass) ActionResult.PASS else ActionResult.SUCCESS
     }
 
-    override fun getStrongRedstonePower(
+    override fun getWeakRedstonePower(
         state: BlockState,
         world: BlockView?,
         pos: BlockPos?,
